@@ -3,7 +3,7 @@
 A small content project for data and analytics engineers who want to *actually*
 understand dimensional modeling. Three interlocking pieces:
 
-1. **A five-part article series** (Dev.to-ready markdown) — a coffee shop
+1. **A five-part article series** — a coffee shop
    (the friendly conceptual tour), a SaaS startup (subscription/MRR/churn),
    order fulfillment (split shipments and late-arriving facts), healthcare
    claims (bridge tables and weighting factors), and the no-right-grain
@@ -11,7 +11,7 @@ understand dimensional modeling. Three interlocking pieces:
 2. **Companion SQL** for all five case studies — PostgreSQL schemas, hand-crafted
    seed data, the queries used in the articles, plus exercises and solutions.
 3. **A polished quiz app** (React + Vite + Tailwind) with 60 questions covering
-   all five parts, per-topic scoring, and a "review missed questions" loop.
+   all five parts, per-topic scoring, and a "review missed questions" loop. The quiz is hosted [here](https://kimball-quiz.vercel.app/)
 
 Everything is greenfield and self-contained. No external services, no API keys,
 no auth. Clone and go.
@@ -22,11 +22,11 @@ no auth. Clone and go.
 
 | # | Article | Words | Audience |
 |---|---------|-------|----------|
-| 1 | [`articles/part-1-coffee-shop.md`](articles/part-1-coffee-shop.md) | ~3,500 | Anyone new to dimensional modeling |
-| 2 | [`articles/02-saas-startup-kimball.md`](articles/02-saas-startup-kimball.md) | ~3,250 | People who know the basics, want the SaaS-specific patterns |
-| 3 | [`articles/part-3-fulfillment.md`](articles/part-3-fulfillment.md) | ~3,300 | Anyone whose "process" facts fork, stall, or arrive out of order |
-| 4 | [`articles/part-4-bridge-tables.md`](articles/part-4-bridge-tables.md) | ~3,200 | Anyone with a genuinely many-to-many dimension |
-| 5 | [`articles/part-5-ambiguous-grain.md`](articles/part-5-ambiguous-grain.md) | ~3,100 | Anyone who's been asked for "one number" that doesn't exist |
+| 1 | Part 1: Coffee Shop | ~3,500 | Anyone new to dimensional modeling |
+| 2 | Part 2: SaaS Startup | ~3,250 | People who know the basics, want the SaaS-specific patterns |
+| 3 | Part 3: Order Fulfillment | ~3,300 | Anyone whose "process" facts fork, stall, or arrive out of order |
+| 4 | Part 4: Bridge Tables | ~3,200 | Anyone with a genuinely many-to-many dimension |
+| 5 | Part 5: Ambiguous Grain | ~3,100 | Anyone who's been asked for "one number" that doesn't exist |
 
 Article 1 carries the core conceptual load: fact/dimension tables (all their
 types), choosing the grain, star vs. snowflake, and SCD basics. Article 2 opens
@@ -38,9 +38,6 @@ snapshots under stress (split shipments, out-of-order webhooks, semi-additive
 measures), weighted and unweighted bridge tables, and finally three
 stakeholders with three irreconcilable grains resolved through conformed
 dimensions. They're designed to be non-redundant.
-
-The markdown files include Dev.to frontmatter (`published: false` — flip to
-`true` when you're ready to publish). Cover images use Unsplash source URLs.
 
 ---
 
@@ -129,23 +126,7 @@ duckdb kimball.db
 
 ## Run the quiz app
 
-The quiz lives in [`quiz_app/`](quiz_app/). React 18 + Vite 5 + Tailwind 3.
-
-```bash
-cd quiz_app
-npm install
-npm run dev        # opens http://localhost:5173
-```
-
-Production build:
-
-```bash
-npm run build      # outputs to quiz_app/dist/
-npm run preview    # serve the production build locally
-```
-
-The `dist/` folder is static — deploy it free to Vercel, Netlify, GitHub Pages,
-or any static host.
+It's hosted [here](https://kimball-quiz.vercel.app/)
 
 ### What's in the quiz
 
@@ -159,81 +140,6 @@ or any static host.
 - **Question types**: multiple choice, true/false, and "what's wrong with this
   schema?" (renders a SQL code block and asks you to spot the bug)
 
-The question bank is in [`quiz_app/src/data/questions.json`](quiz_app/src/data/questions.json),
-tagged by `article` (`coffee` | `saas` | `fulfillment` | `bridges` | `grain`)
-and `topic`. Adding questions is a
-one-file edit. See [`quiz_app/README.md`](quiz_app/README.md) for the full
-question schema and how to extend it.
-
----
-
-## Repository layout
-
-```
-kimball-concepts/
-├── README.md                          ← you are here
-├── articles/
-│   ├── part-1-coffee-shop.md          ← article 1 (Dev.to-ready)
-│   ├── 02-saas-startup-kimball.md     ← article 2 (Dev.to-ready)
-│   ├── part-3-fulfillment.md          ← article 3
-│   ├── part-4-bridge-tables.md        ← article 4
-│   ├── part-5-ambiguous-grain.md      ← article 5
-│   └── diagram-*.mmd / diagram-*.png  ← article diagrams (source + rendered)
-├── coffee_shop/                       ← Part 1 case study
-│   ├── schema.sql                     ← fact + dim DDL
-│   ├── seed.sql                       ← sample data
-│   ├── queries.sql                    ← article's example queries
-│   ├── exercises.sql                  ← practice questions + hints
-│   └── solutions.sql                  ← worked solutions
-├── saas_startup/                      ← Part 2 case study (same five files)
-├── crate_expectations/                ← Part 3 case study (same five files)
-├── meadowlark_health/                 ← Part 4 case study (same five files)
-├── tabby_contracts/                   ← Part 5 case study (same five files)
-└── quiz_app/
-    ├── README.md                      ← how to run/dev/deploy the quiz
-    ├── index.html                     ← Vite entry
-    ├── package.json                   ← React + Vite + Tailwind deps
-    ├── vite.config.js
-    ├── tailwind.config.js
-    ├── postcss.config.js
-    ├── public/coffee.svg              ← favicon
-    └── src/
-        ├── main.jsx
-        ├── App.jsx                    ← top-level quiz state machine
-        ├── index.css                  ← Tailwind directives + base styles
-        ├── components/
-        │   ├── StartScreen.jsx        ← mode picker (coffee / saas / mixed)
-        │   ├── QuestionCard.jsx       ← one question, animated
-        │   ├── ProgressBar.jsx
-        │   ├── ScoreBadge.jsx
-        │   ├── ExplanationPanel.jsx   ← the learning moment
-        │   └── ResultsScreen.jsx      ← score + per-topic chart + review loop
-        ├── data/
-        │   └── questions.json         ← question bank (30 Q, tagged)
-        └── lib/
-            └── useQuiz.js             ← custom hook: state, scoring, navigation
-```
-
----
-
-## Verification status
-
-Everything in this repo has been validated end-to-end:
-
-- **Articles** — markdown renders cleanly; frontmatter is valid Dev.to format;
-  all code blocks are language-tagged.
-- **SQL** — `schema.sql` + `seed.sql` + `queries.sql` for all five case studies
-  run cleanly in Postgres 17 with `ON_ERROR_STOP=1`. Foreign keys, SCD2 patterns,
-  role-playing date joins, MRR waterfalls, NRR queries, rank-guarded
-  late-arriving-fact updates, weighted-bridge allocations, and the
-  three-grain conformed-dimension queries all return sensible results.
-  Exercise solutions in `solutions.sql` also execute cleanly, and every
-  "expected from seed" number in the comments was verified against the
-  actual query output.
-- **Quiz app** — `npm install`, `npm run build`, and `npm run dev` (HTTP 200
-  on `localhost:5173`) all pass. All 60 questions render across the six
-  modes; scoring and the per-topic chart work.
-
 ---
 
 ## Tech choices and why
@@ -241,14 +147,3 @@ Everything in this repo has been validated end-to-end:
 - **PostgreSQL** for the SQL — broadest familiarity, and the window functions,
   SCD2 patterns, and `PERCENTILE_CONT` queries are portable to Snowflake,
   BigQuery, and DuckDB with cosmetic tweaks.
-- **React + Vite + Tailwind** for the quiz — fast dev loop, tiny prod build,
-  Tailwind keeps styling in JSX where it belongs. **framer-motion** for the
-  question transitions and result-screen micro-animations; **recharts** for the
-  per-topic bar chart.
-- **Inter** (sans) + **JetBrains Mono** (code) — clean, modern, free via Google
-  Fonts.
-
-## License
-
-MIT — see headers in each file. The articles are yours to adapt; the SQL and
-quiz are yours to fork.
