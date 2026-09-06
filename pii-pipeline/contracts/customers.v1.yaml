@@ -1,0 +1,15 @@
+# The producer's declaration: "this is what lives in our data, tier-tagged."
+# Consumed by `uv run python -m pii.validate_contract`.
+dataset: raw.customers
+version: 1
+owner: cs-analytics
+columns:
+  customer_id:   { pii_tier: non_pii }
+  email:         { pii_tier: direct }
+  phone:         { pii_tier: direct }
+  first_name:    { pii_tier: direct }
+  last_name:     { pii_tier: direct }
+  zip:           { pii_tier: quasi }
+  dob:           { pii_tier: quasi }
+  contact_ref:   { pii_tier: direct }
+  support_notes: { pii_tier: free_text, redact: true }

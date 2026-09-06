@@ -1,0 +1,13 @@
+# Output of Part 1's detection ladder, turned into policy. Part 3's pipeline
+# consumes this file directly: each tier maps to a protection action.
+version: 1
+columns:
+  customer_id:   { tier: non_pii }
+  email:         { tier: direct }
+  phone:         { tier: direct }
+  first_name:    { tier: direct }
+  last_name:     { tier: direct }
+  zip:           { tier: quasi }            # dangerous in combination
+  dob:           { tier: quasi }
+  contact_ref:   { tier: direct }           # caught by profiling, not by its name
+  support_notes: { tier: free_text, action: redact_on_read }

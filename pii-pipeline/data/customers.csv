@@ -1,0 +1,301 @@
+customer_id,email,phone,first_name,last_name,zip,dob,contact_ref,support_notes
+0822e8f3-6c03-4199-972a-846916419f82,johnsonjoshua@example.com,555-792-9935,Jeffrey,Doyle,04406,1942-06-19,johnsonjoshua@example.com,How do I change my billing address?
+47378190-96da-4dac-b2ff-5d2a386ecbe0,williamjohnson@example.com,555-658-7873,James,Santos,01352,1991-01-07,williamjohnson@example.com,"Hi, this is James Santos — order #3615 never arrived. I'm at williamjohnson@example.com, or call me at 555-658-7873. Billing zip is 92007."
+d8f56413-5be6-428e-98c2-67976142ea7d,jpeterson@example.com,555-204-2519,Jason,Gallagher,45583,1979-09-12,jpeterson@example.com,Question about my last invoice.
+e2acf72f-9e57-4f7a-a0ee-89aed453dd32,blairamanda@example.com,555-665-5803,Teresa,Gray,47901,1977-10-09,blairamanda@example.com,"Thanks — this got resolved, closing."
+a2bc372f-7412-4293-8729-4739614ff3d7,williamsjeremy@example.com,555-338-2654,Keith,Miller,48320,1947-07-02,williamsjeremy@example.com,How do I change my billing address?
+451b4cf3-6123-4df7-b656-af7229d4beef,jason41@example.com,555-846-5010,Chelsea,Jackson,84387,1985-11-11,jason41@example.com,"Thanks — this got resolved, closing."
+3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,gabriellecameron@example.com,555-132-6168,Kimberly,Perez,74842,1999-08-08,gabriellecameron@example.com,"Thanks — this got resolved, closing."
+8fb5d27b-beb7-4919-bf22-faf823bed01d,jason76@example.com,555-246-5339,Nicole,Day,71145,1954-10-21,jason76@example.com,The dashboard shows yesterday's orders twice?
+0c0fd195-c17a-408a-9745-d6d87e570ddf,zhurst@example.com,555-241-9348,Michael,Osborn,14872,1946-10-13,zhurst@example.com,Can we get the invoice as PDF instead?
+dc5c0eed-8da0-465b-b898-97b9405cacec,laurahenderson@example.com,555-579-9669,Bryan,James,02005,1985-04-15,laurahenderson@example.com,"Thanks — this got resolved, closing."
+00d4af59-7427-4ca3-a87d-06ca6f4cc69a,maldonadoamanda@example.com,555-214-5808,Joseph,Davidson,95147,1999-07-25,maldonadoamanda@example.com,The dashboard shows yesterday's orders twice?
+5fb8d16c-2720-497d-b2eb-d6899be578c7,teresa28@example.com,555-405-9317,Rita,Harrell,21675,1975-01-01,teresa28@example.com,Question about my last invoice.
+e0c53cb8-3da9-42a9-8ed4-2f1a3d4cbf37,georgetracy@example.com,555-951-6038,Daniel,Cox,74865,2004-10-02,georgetracy@example.com,"Thanks — this got resolved, closing."
+8cbfedb0-f264-4ccc-b9ac-1b1ea8e56e0c,dennislisa@example.com,555-228-3103,Tiffany,Patel,22144,1954-12-22,dennislisa@example.com,Can we get the invoice as PDF instead?
+a65e688e-abf3-4d39-bec2-1bbe66245bfa,ibrandt@example.com,555-830-6107,Karina,Vaughn,49445,1967-08-10,ibrandt@example.com,Just checking the return policy for damaged boxes.
+122c9a56-01d7-4256-b860-2ab696a402f2,omartinez@example.com,555-667-4770,Caleb,Smith,93279,1981-09-11,omartinez@example.com,Please add VAT to our receipts.
+b92da22b-21df-406f-8a0b-3c3336d8393a,carlosjohnson@example.com,555-385-8953,Mark,Palmer,75348,1977-09-09,carlosjohnson@example.com,The dashboard shows yesterday's orders twice?
+dd2467ac-778e-4db3-a93d-ffbc6c6fa611,kristenaguirre@example.com,555-541-6804,James,Davis,96062,1939-07-31,kristenaguirre@example.com,Just checking the return policy for damaged boxes.
+6c006f61-23e2-4cb4-b2d8-567d894a05e4,brownjessica@example.com,555-296-4116,Lauren,Rodriguez,24551,1955-12-17,brownjessica@example.com,The dashboard shows yesterday's orders twice?
+d605e770-8a63-4881-bfd0-f9d5a6f2f7b8,nancyjones@example.com,555-200-1828,Lindsey,Chase,02435,2006-05-13,CR-40982,Please add VAT to our receipts.
+43e458fc-63f2-4e24-bc3d-3348008d4127,richardolson@example.com,555-268-7209,Michelle,Barrera,60139,1956-06-12,richardolson@example.com,Can we get the invoice as PDF instead?
+0ea2622b-5048-47ba-bf7b-539b0f9aea4b,smoore@example.com,555-853-9883,Jeff,Brown,07073,1978-04-09,smoore@example.com,How do I change my billing address?
+e3e9de99-f10c-418b-9eb0-e38a675dd5af,brianromero@example.com,555-169-4853,Melissa,Jones,75169,1953-08-07,brianromero@example.com,Please add VAT to our receipts.
+3d1a85dd-506e-4a9a-b758-588dab73295b,harveyrobert@example.com,555-367-4346,Brandy,Mills,35315,1964-07-08,harveyrobert@example.com,"Shipping took longer than the estimate, just FYI."
+43e42caf-8181-48cc-b691-47eb89a2688b,stephen10@example.com,555-202-2200,Stephen,Murillo,17862,2003-10-03,stephen10@example.com,Just checking the return policy for damaged boxes.
+ce9e1a11-fcbb-4e59-bbdd-cf7c9c96e9ec,suarezmike@example.com,555-820-5956,Eric,Bass,86218,1974-03-28,suarezmike@example.com,"Hi, this is Eric Bass — order #5905 never arrived. I'm at suarezmike@example.com, or call me at 555-820-5956. Billing zip is 87452."
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,mcmillandennis@example.com,555-666-3546,Darrell,Rodriguez,94559,1960-08-27,mcmillandennis@example.com,"Thanks — this got resolved, closing."
+217d65a0-c568-41cd-9563-f61600e85ece,william40@example.com,555-383-1722,Christopher,Henderson,84008,2007-02-25,william40@example.com,Question about my last invoice.
+5e84f058-d5a8-44eb-8939-23de8babce3b,joycearnold@example.com,555-177-3442,Ronald,Smith,76851,1975-12-17,joycearnold@example.com,"Shipping took longer than the estimate, just FYI."
+ae9bec36-35c7-436c-9b99-62c6e61fecc0,tanderson@example.com,555-981-1653,Michael,Fitzpatrick,33207,1984-04-24,tanderson@example.com,"Hi, this is Michael Fitzpatrick — order #6794 never arrived. I'm at tanderson@example.com, or call me at 555-981-1653. Billing zip is 73886."
+2d534dd0-cf8e-4c5a-8cc5-6569f9e8a369,vdickson@example.com,555-985-3662,Eric,Spears,54541,1937-06-07,vdickson@example.com,"Thanks — this got resolved, closing."
+787f2425-dbcc-4477-89e9-db0adf465290,kimberly63@example.com,555-210-7267,Joseph,Cobb,29655,1950-03-12,kimberly63@example.com,"Hi, this is Joseph Cobb — order #8541 never arrived. I'm at kimberly63@example.com, or call me at 555-210-7267. Billing zip is 46331."
+c5f8bc16-f786-4b50-91c5-8ef0dd463c09,lori33@example.com,555-436-5564,Andrew,Lee,37086,1961-04-04,CR-76768,"Thanks — this got resolved, closing."
+fbc9f87a-f668-4617-94a1-875d2db69edb,ifrazier@example.com,555-998-5279,Mark,Johnson,35296,1938-06-02,ifrazier@example.com,The dashboard shows yesterday's orders twice?
+30a900ad-939b-462d-a645-f129629c2ae3,yreed@example.com,555-623-2894,Lee,Obrien,33887,1938-11-12,yreed@example.com,Please add VAT to our receipts.
+f2e9702d-11e9-4daa-ae69-81a35d3d9e56,zsmith@example.com,555-859-4228,Amanda,Ball,87563,2002-11-04,zsmith@example.com,How do I change my billing address?
+2095eef6-8ded-49fb-8bb0-0f20b27c4026,elizabeth14@example.com,555-434-7592,William,Estrada,25645,1966-04-26,elizabeth14@example.com,Just checking the return policy for damaged boxes.
+6e0d2648-35ce-4841-8973-2d6c4dcabfb7,lbyrd@example.com,555-661-1006,Christina,Turner,76520,1979-11-30,CR-52237,"Thanks — this got resolved, closing."
+83f4a9a9-48a6-49d0-95b5-2908a8aa7158,rramos@example.com,555-915-3780,Jason,Kennedy,87513,1981-10-30,rramos@example.com,The dashboard shows yesterday's orders twice?
+9c7c7377-79a2-4903-bbe3-3b243eae0032,clarence34@example.com,555-125-1757,Jeffrey,Gonzalez,10046,1968-11-14,clarence34@example.com,Just checking the return policy for damaged boxes.
+c521bf2d-dc45-4539-803f-3538e4855aa1,jennifercruz@example.com,555-804-1090,Reginald,Hernandez,14471,1992-06-13,jennifercruz@example.com,Please add VAT to our receipts.
+76f2dbfe-cd29-436f-a222-82e174daaebf,gregoryrubio@example.com,555-355-2988,April,Williams,88001,1974-05-26,gregoryrubio@example.com,How do I change my billing address?
+be6033f7-28be-4288-a5af-6e39722764e6,stephanie79@example.com,555-536-9976,Lisa,Mcclain,62717,1968-06-24,stephanie79@example.com,"Shipping took longer than the estimate, just FYI."
+49257af1-b6aa-405b-93d5-f2f7709b7d97,maryramirez@example.com,555-344-5499,Kimberly,Washington,31236,1955-06-18,maryramirez@example.com,Please add VAT to our receipts.
+54b4a482-6858-4eba-aa34-c85410714d51,patricia12@example.com,555-256-4505,Edward,Reyes,71622,1969-08-21,patricia12@example.com,Question about my last invoice.
+9360715f-c3fe-4183-a172-b725db52ca58,clarkrobert@example.com,555-812-1320,Rebecca,Silva,50358,1970-06-12,clarkrobert@example.com,Please add VAT to our receipts.
+6f92f25e-45df-46b6-b82c-043f7cfc9b79,kenneth66@example.com,555-919-4613,Amanda,Navarro,64155,1937-09-28,kenneth66@example.com,"Thanks — this got resolved, closing."
+978648f8-64de-42e6-a82c-7d7b06e745f9,elizabeth62@example.com,555-737-9751,Mary,Calhoun,74476,1984-01-10,elizabeth62@example.com,How do I change my billing address?
+56666f9f-53ac-4ab9-b467-2cd9362f5e5c,dayderek@example.com,555-488-6363,Steven,Williams,50193,1955-12-09,dayderek@example.com,Please add VAT to our receipts.
+c7fee39f-1190-4938-a66f-d7f739669fa7,fking@example.com,555-153-6733,Thomas,Curry,85927,1938-07-25,fking@example.com,"Thanks — this got resolved, closing."
+f2a03459-9060-4f62-9d48-a071ab61a7b1,herringjames@example.com,555-229-8758,Andrew,Hernandez,29070,1969-07-28,herringjames@example.com,"Thanks — this got resolved, closing."
+9424aed5-1bac-4c15-8fa0-3f26f6f7f0cc,katie29@example.com,555-217-3683,Catherine,Adkins,03866,2003-06-08,katie29@example.com,How do I change my billing address?
+4d3485c5-c5c1-4eb4-b27b-3d901a16342c,tsanders@example.com,555-950-4978,James,Vargas,90188,1979-06-16,tsanders@example.com,Please add VAT to our receipts.
+575aed2c-a5c5-450c-8186-a57611a72609,hoganashlee@example.com,555-777-7071,Blake,Patel,02159,1997-08-24,hoganashlee@example.com,Please add VAT to our receipts.
+859131d2-bbda-4242-ad17-4fc96f7c15ea,xgarcia@example.com,555-824-3506,Cynthia,Poole,85757,1955-05-05,xgarcia@example.com,The dashboard shows yesterday's orders twice?
+3e6dd58b-7367-428d-a1b2-94de4767d76c,umarshall@example.com,555-351-2419,Brittany,Morris,98867,1969-07-19,umarshall@example.com,Just checking the return policy for damaged boxes.
+4797b2c9-5720-4246-8223-623bcc3ebdde,frogers@example.com,555-317-6813,Melissa,White,78640,1986-10-24,frogers@example.com,The dashboard shows yesterday's orders twice?
+b63b4dc3-a559-4463-b9e1-3ceab0cbc61f,angela83@example.com,555-600-4937,Christopher,Cortez,64833,1968-05-05,angela83@example.com,Please add VAT to our receipts.
+58007c02-87ea-4ff5-8db0-674679279973,davisjeffrey@example.com,555-695-7046,Heather,Torres,56272,2008-05-19,davisjeffrey@example.com,"Shipping took longer than the estimate, just FYI."
+892e6161-be2d-440a-9e9b-23bc50c7c006,michael74@example.com,555-838-4155,Kristopher,Hall,90962,1949-02-20,michael74@example.com,Please add VAT to our receipts.
+31b1b099-d527-41e7-99bc-143efb02bebb,joannahill@example.com,555-711-5636,Brittany,Wolf,39330,1952-03-25,joannahill@example.com,Question about my last invoice.
+a34b6cf6-2053-4a42-b1af-db65b289f224,kevinerickson@example.com,555-155-5786,David,Williams,99170,1971-06-17,kevinerickson@example.com,"Thanks — this got resolved, closing."
+1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b,andrewstaylor@example.com,555-152-5136,Scott,Lopez,09065,1964-11-16,andrewstaylor@example.com,Can we get the invoice as PDF instead?
+8edddfcd-1e52-4770-bf89-7142fe716b14,rayglenda@example.com,555-411-2395,Edward,Shepherd,55049,1979-11-20,rayglenda@example.com,Please add VAT to our receipts.
+0f6b40d0-9efb-458b-9191-b3634e2d6645,kimberlyjames@example.com,555-702-8025,Rebekah,Evans,80406,2005-09-18,kimberlyjames@example.com,Question about my last invoice.
+2812859a-1337-439e-8d4f-5d272c7f0b79,mezajared@example.com,555-260-4929,Jason,Guerrero,00851,1965-06-12,mezajared@example.com,Question about my last invoice.
+ec856f37-3bc1-4987-aff8-754d1238d630,ocarter@example.com,555-980-8438,Keith,Campbell,35176,1993-02-19,ocarter@example.com,Just checking the return policy for damaged boxes.
+cae9b4a7-2a79-4a68-8f44-704f1247ea4e,ronaldstephens@example.com,555-946-3330,Deborah,Kerr,40820,1979-01-24,ronaldstephens@example.com,How do I change my billing address?
+9918ee46-1497-4658-b010-f7197e695d0d,scott74@example.com,555-612-9847,Holly,Bender,05725,2000-07-21,scott74@example.com,Please add VAT to our receipts.
+d248a9a7-ac1a-4554-83c7-5611ffe3fa49,cassandra01@example.com,555-981-1339,Jeremy,Craig,35826,1977-09-10,cassandra01@example.com,How do I change my billing address?
+f8140102-7de1-4dfe-9072-5b5ca2814044,thomaspearson@example.com,555-699-8141,Sabrina,White,12460,1969-12-08,thomaspearson@example.com,"Shipping took longer than the estimate, just FYI."
+668409e3-f1f8-443e-a99f-131849c8a43f,qcook@example.com,555-521-9117,Daniel,Martin,72603,1938-04-21,qcook@example.com,Can we get the invoice as PDF instead?
+764414fd-8ae7-49ed-9e8e-de0ba85c6e4a,edwardsmarcus@example.com,555-626-1018,Tara,Powell,54666,1939-08-01,edwardsmarcus@example.com,Question about my last invoice.
+e17f29e1-7028-4046-89bc-473fed7bf656,cindy77@example.com,555-662-3146,Kathleen,Harris,92022,1971-01-04,cindy77@example.com,"Thanks — this got resolved, closing."
+3985fb62-17dc-4eff-a872-13f98d605936,dudleychelsea@example.com,555-664-1224,John,Moore,15372,1969-04-24,dudleychelsea@example.com,"Thanks — this got resolved, closing."
+faf14ff0-7b85-479a-95b0-77e06a5d932b,hollanderic@example.com,555-822-5479,Sarah,Carter,62395,1953-06-01,hollanderic@example.com,How do I change my billing address?
+dabac50d-ca3d-4859-85ce-099c46b82659,patrickweeks@example.com,555-984-2143,William,Suarez,54888,1960-06-08,patrickweeks@example.com,Question about my last invoice.
+89e06ab3-7250-4e18-a60a-5962dd81b7f5,lori44@example.com,555-775-9022,Mary,Carpenter,63984,1960-10-26,lori44@example.com,Just checking the return policy for damaged boxes.
+69288e92-c68a-452f-9b23-aa8c3bcabf85,ugibson@example.com,555-344-7274,Molly,Pollard,06221,1958-11-07,ugibson@example.com,How do I change my billing address?
+2051acef-097a-4e10-b6fe-bc0e7ecddbaf,zthornton@example.com,555-911-3492,Patrick,Mcneil,66337,2006-02-05,zthornton@example.com,"Hi, this is Patrick Mcneil — order #6439 never arrived. I'm at zthornton@example.com, or call me at 555-911-3492. Billing zip is 13655."
+f81dbaa1-c812-4a8e-b830-89301327f1bc,dgarcia@example.com,555-991-3529,Alexis,Thomas,35238,1960-05-04,dgarcia@example.com,Can we get the invoice as PDF instead?
+c268283e-e32f-4e63-b7fd-dd71a075e927,vsantos@example.com,555-489-6188,Melissa,Villarreal,64457,1999-04-24,vsantos@example.com,How do I change my billing address?
+c2a79689-1933-418c-ba74-57616f18c108,williamsonjimmy@example.com,555-332-2480,Gabrielle,Mitchell,83567,1987-01-04,williamsonjimmy@example.com,Question about my last invoice.
+6e417d47-5ff5-45ea-9bc4-40f14b1a269b,wallaceheather@example.com,555-915-1919,Rebecca,Williams,19581,1953-06-14,wallaceheather@example.com,Please add VAT to our receipts.
+7f671eec-3da7-4577-aee1-e86b9ea556aa,yknight@example.com,555-724-7267,Hector,Thompson,76936,1946-01-27,yknight@example.com,"Hi, this is Hector Thompson — order #8555 never arrived. I'm at yknight@example.com, or call me at 555-724-7267. Billing zip is 84112."
+fcd6bdca-5876-4d09-b1fa-f665711533f3,steve07@example.com,555-261-2210,Rachel,Byrd,77515,1957-06-18,steve07@example.com,Just checking the return policy for damaged boxes.
+92698698-61a1-4729-bcb9-83501b4da0fe,dvaughn@example.com,555-493-8916,Megan,Gonzalez,47550,1977-08-02,dvaughn@example.com,Question about my last invoice.
+7f2984f5-bec3-4a37-9b3d-74bde91e314e,andrew64@example.com,555-896-1803,Alan,Grimes,38013,1992-04-03,andrew64@example.com,Just checking the return policy for damaged boxes.
+a0a11839-e745-4704-98df-bc3ca0d4de3d,catherinegomez@example.com,555-794-3240,Dana,Oliver,85218,1938-07-03,catherinegomez@example.com,The dashboard shows yesterday's orders twice?
+336749b5-2cf6-4f75-aa5e-6920bf5ae7e6,xjohnson@example.com,555-402-6352,Jessica,Davis,17823,1993-01-15,CR-57953,The dashboard shows yesterday's orders twice?
+f6802cdb-77e4-40c7-9d7b-c313cde22f1c,maria47@example.com,555-991-6549,Tammy,Phillips,10370,1945-11-25,maria47@example.com,"Thanks — this got resolved, closing."
+03902c5d-6502-46a2-8a6a-2224171e16cc,michelleramsey@example.com,555-923-6992,Tina,Coffey,35164,1974-10-18,michelleramsey@example.com,Just checking the return policy for damaged boxes.
+78b2b549-3bdb-409e-acc2-16a01bbc91f7,vrichardson@example.com,555-942-7086,Emily,Richards,03781,1980-11-07,vrichardson@example.com,Can we get the invoice as PDF instead?
+23c86d30-1dde-4969-a886-13dba6348e78,rose31@example.com,555-817-5951,Cynthia,Marshall,06444,2004-09-14,rose31@example.com,How do I change my billing address?
+be3e6e57-f30a-4e32-aba4-fc035efa9c5b,wendy11@example.com,555-497-8432,Jimmy,Medina,91790,2004-09-06,wendy11@example.com,The dashboard shows yesterday's orders twice?
+f396ea37-f065-4817-a87a-48509d9b6231,umatthews@example.com,555-201-9017,Eric,Perry,37167,1938-01-05,umatthews@example.com,How do I change my billing address?
+a5135ea0-fa53-434d-a6d5-901d8b621d41,jeff73@example.com,555-802-7018,Melissa,Garcia,47513,1940-01-17,jeff73@example.com,How do I change my billing address?
+3e5a87e3-5560-4b22-896b-5edb0cf2b69b,james17@example.com,555-754-1349,Christopher,Lewis,17006,1993-01-27,james17@example.com,"Hi, this is Christopher Lewis — order #4362 never arrived. I'm at james17@example.com, or call me at 555-754-1349. Billing zip is 09493."
+250a4578-fbe9-4499-9bc0-80fd46fb7bf3,brendali@example.com,555-907-1046,Jesse,Schroeder,17539,1975-01-23,brendali@example.com,Can we get the invoice as PDF instead?
+2c9b662e-040a-4aae-92e2-afd996bf10ab,danieldelacruz@example.com,555-907-4898,David,Howard,35283,1939-06-14,danieldelacruz@example.com,Question about my last invoice.
+80fb9296-73b6-409b-9bea-f6ac97fa7f04,vfox@example.com,555-470-9408,Bryce,West,29539,2004-08-22,vfox@example.com,How do I change my billing address?
+d8e88ebb-7a9e-4eef-bfa3-61be0f9240e1,acostaregina@example.com,555-758-1510,Donna,Turner,53141,1966-09-29,acostaregina@example.com,Just checking the return policy for damaged boxes.
+9fd34579-4667-42ce-a04e-178c10d08d11,henryrenee@example.com,555-722-3430,Charles,Miller,83479,1978-05-11,henryrenee@example.com,Can we get the invoice as PDF instead?
+da509fed-1d4a-4d81-b3a7-d0e0cb08587d,oscar98@example.com,555-540-2624,Kenneth,Wagner,86315,1983-02-22,oscar98@example.com,The dashboard shows yesterday's orders twice?
+6d4067f4-5003-4b35-9857-8bafbac7e2b9,russellbeasley@example.com,555-508-7815,Robert,Wilcox,41464,1984-03-06,russellbeasley@example.com,Please add VAT to our receipts.
+cfd01cbd-5f65-48ce-bd21-bc11be9d61ee,stephanie71@example.com,555-542-2582,Christopher,Miller,17555,1976-03-29,stephanie71@example.com,How do I change my billing address?
+4ffca6b1-99b4-49d4-89a2-14aef7e8f8e5,elizabeth65@example.com,555-533-1842,Morgan,Pugh,46591,1943-03-10,CR-76507,"Thanks — this got resolved, closing."
+92f837d4-4750-4f1d-833a-1f6c1d691fba,ericolson@example.com,555-669-7022,Melanie,Bell,30144,1994-07-21,ericolson@example.com,Can we get the invoice as PDF instead?
+01902620-59dc-4bd0-96fe-bfb9ebe9e207,lynchdiane@example.com,555-379-6062,Heather,Johnson,24278,1999-02-16,lynchdiane@example.com,Question about my last invoice.
+74222167-6b7a-4460-a04e-46cb3712f2d1,vjones@example.com,555-864-9691,Cynthia,Johnson,45182,1947-02-12,vjones@example.com,"Shipping took longer than the estimate, just FYI."
+716fda0a-45a8-4829-94e2-86e5ac8936bc,jennifer99@example.com,555-261-1815,Christopher,Williams,87262,1966-07-30,jennifer99@example.com,The dashboard shows yesterday's orders twice?
+97d7a560-adb1-4670-ad9f-b00d4882d73c,nperry@example.com,555-540-2816,Kari,Wilson,64284,1974-02-03,nperry@example.com,"Hi, this is Kari Wilson — order #6053 never arrived. I'm at nperry@example.com, or call me at 555-540-2816. Billing zip is 06453."
+53ffd3a2-4a19-4501-8169-b9fcc3a00c6f,randallgreene@example.com,555-316-3248,Adrian,Turner,16227,1936-03-10,randallgreene@example.com,The dashboard shows yesterday's orders twice?
+bdf66ba5-dc9c-46de-a5a6-74c212738a23,ythompson@example.com,555-672-6802,Amanda,Hall,06045,1967-06-21,ythompson@example.com,"Shipping took longer than the estimate, just FYI."
+0556daea-67b0-4283-9d7c-00984a1dab32,umorse@example.com,555-826-7843,Barbara,Berry,43069,1948-03-03,umorse@example.com,Just checking the return policy for damaged boxes.
+1422373f-8622-48d1-a683-e10796c044d0,xcollier@example.com,555-349-8138,Christopher,Richard,52374,1999-03-05,xcollier@example.com,Please add VAT to our receipts.
+59e1ac09-5970-4859-86b6-e4ade7ea8d5a,jeffrey21@example.com,555-622-4176,William,Wilson,95840,2005-07-30,jeffrey21@example.com,The dashboard shows yesterday's orders twice?
+a0c14035-c5d9-4f51-b387-e1bd2d5972c6,joelthomas@example.com,555-878-2234,James,Morrison,65265,1969-06-29,joelthomas@example.com,The dashboard shows yesterday's orders twice?
+780b3657-117b-455b-b094-4bdb26a524e3,kmaldonado@example.com,555-430-6179,Dawn,Downs,58462,1981-09-19,kmaldonado@example.com,Question about my last invoice.
+13a4a492-497d-416d-94ea-120a5e659654,brittany58@example.com,555-138-1932,Charles,Murray,84998,1998-09-19,brittany58@example.com,The dashboard shows yesterday's orders twice?
+925817b7-cf50-4889-a8b7-7f7b7321bf6b,gilbertwilliam@example.com,555-910-1672,Steven,Spencer,85938,1949-05-14,CR-89299,Can we get the invoice as PDF instead?
+812a1f9b-1596-4802-b6dd-6257fb7d9f1c,dmason@example.com,555-957-6626,Shannon,Shepherd,85190,1948-03-22,dmason@example.com,Just checking the return policy for damaged boxes.
+68a51c68-632d-4b5e-886b-b6bfeafde7d9,jasmineritter@example.com,555-472-7108,Alexandria,Bishop,44851,1985-03-09,jasmineritter@example.com,Please add VAT to our receipts.
+da003f16-b946-4bcf-8082-cbb948bddb3e,mccormickdeborah@example.com,555-794-7333,Cameron,Davis,86558,2006-01-11,mccormickdeborah@example.com,"Thanks — this got resolved, closing."
+f020e992-b576-455e-9854-9f222102f9c9,mathewaguilar@example.com,555-771-7421,Donald,Bailey,11605,1958-03-23,mathewaguilar@example.com,Please add VAT to our receipts.
+6c645c15-aba3-41cb-a561-e1e917ec889c,vschneider@example.com,555-948-9624,Lisa,Santiago,67149,1962-01-14,vschneider@example.com,Just checking the return policy for damaged boxes.
+d82c7565-4bb9-47ec-93c1-175427aa7cbc,kyle35@example.com,555-331-3253,Stacey,Tucker,13757,1972-09-08,kyle35@example.com,Can we get the invoice as PDF instead?
+c566aa81-b15e-44f6-94d3-07952e4bebc4,stanleynancy@example.com,555-257-3658,Christine,Harper,82386,1994-09-08,stanleynancy@example.com,Just checking the return policy for damaged boxes.
+72ecf16e-c8a7-43e9-bfa0-16c2c09cb506,jenniferwilliams@example.com,555-554-5668,Michael,Ball,31172,1974-08-10,jenniferwilliams@example.com,Question about my last invoice.
+61c2645a-c733-4304-8822-3120c4f9eccd,tammy73@example.com,555-551-8564,Micheal,Valentine,66417,1974-02-17,tammy73@example.com,"Thanks — this got resolved, closing."
+ef2ddcc4-8df6-41da-9f07-c1a5dfc620ce,lisasolis@example.com,555-756-8873,Devon,Wright,13947,1987-07-23,lisasolis@example.com,Please add VAT to our receipts.
+38d77b9a-e916-4a57-b248-23ab177a8a5f,mitchellkathryn@example.com,555-250-8167,Joshua,Whitehead,59631,2000-03-15,mitchellkathryn@example.com,How do I change my billing address?
+ee4a9b5d-5195-44e3-8737-4c86397b5f51,perryrandy@example.com,555-183-7142,Nathaniel,Hughes,13488,1996-11-19,perryrandy@example.com,Please add VAT to our receipts.
+72d78bdd-7817-49ff-b49e-04ccc24369e7,lacey20@example.com,555-812-3273,Justin,Gallegos,81155,1936-01-04,lacey20@example.com,Question about my last invoice.
+49c10669-c6b3-4fe6-9c76-bdf66c5a6c93,smithjason@example.com,555-723-9647,Edward,Bentley,31648,1957-08-10,smithjason@example.com,"Thanks — this got resolved, closing."
+a1c7cc8a-0435-4b64-893a-d23298c3e3ca,allendanielle@example.com,555-956-9189,Cindy,Brown,68052,1977-08-09,allendanielle@example.com,"Hi, this is Cindy Brown — order #3352 never arrived. I'm at allendanielle@example.com, or call me at 555-956-9189. Billing zip is 38678."
+11536e99-5c50-4720-b982-f4e08603156a,wsmith@example.com,555-780-2402,John,Butler,69452,1975-05-06,wsmith@example.com,Can we get the invoice as PDF instead?
+5844f9fc-114b-4547-89dc-72b85b6a8102,myerstheodore@example.com,555-359-1266,Cynthia,Zavala,32105,1989-02-17,myerstheodore@example.com,Just checking the return policy for damaged boxes.
+d49405f0-2cd2-4404-a48e-40f1d0421dfa,ingramjill@example.com,555-659-6546,Marvin,Williams,90243,1969-07-17,ingramjill@example.com,Just checking the return policy for damaged boxes.
+ca862225-0b36-4356-b39b-77a84b1f0d7b,zwelch@example.com,555-568-1605,Dennis,Baldwin,26645,2000-04-15,zwelch@example.com,Can we get the invoice as PDF instead?
+493e904d-30ec-4796-a59b-457fc0d7ac73,sarah86@example.com,555-359-1599,Veronica,Daniels,47290,1998-07-25,sarah86@example.com,"Thanks — this got resolved, closing."
+56cb1ab0-62fb-46d7-b4db-ca07e506f670,glennmartin@example.com,555-509-8204,David,Richardson,24987,1971-11-06,glennmartin@example.com,Can we get the invoice as PDF instead?
+febec0db-9a3a-4103-ae3c-453214348f62,zrichardson@example.com,555-844-7955,April,Owen,24153,1975-06-12,zrichardson@example.com,The dashboard shows yesterday's orders twice?
+727716ec-59fe-4bbc-b1a3-fad2b0946d2a,curtis54@example.com,555-536-3730,Kirk,Morrison,06052,1988-09-06,curtis54@example.com,Please add VAT to our receipts.
+5d01f55f-67fd-44c4-a334-058aabd2b512,christina64@example.com,555-158-2229,Danielle,Moody,67752,1994-02-08,christina64@example.com,Question about my last invoice.
+a52964ff-c74c-4890-bc6a-3174113634a5,stephaniethomas@example.com,555-135-3068,Cathy,Harrington,48516,1962-01-23,stephaniethomas@example.com,Can we get the invoice as PDF instead?
+5df06e8c-878a-4ed9-a33f-fc8292ec89af,jacobserika@example.com,555-881-2259,Stacy,Watson,52672,1958-07-29,jacobserika@example.com,"Hi, this is Stacy Watson — order #5566 never arrived. I'm at jacobserika@example.com, or call me at 555-881-2259. Billing zip is 33218."
+723ef466-b43b-427f-82a2-59a6c6641285,johnsonjacob@example.com,555-220-5288,April,Mcintyre,28625,2008-05-12,johnsonjacob@example.com,Question about my last invoice.
+ff4c96d6-71f2-4e8f-b69f-68c3e60fd420,heather73@example.com,555-562-3828,David,Farrell,12007,1994-10-17,heather73@example.com,The dashboard shows yesterday's orders twice?
+b34191b8-ed65-42b4-b5a5-f8e6b6391f04,elizabeth18@example.com,555-971-3580,Amber,Vance,84085,1948-05-01,elizabeth18@example.com,Just checking the return policy for damaged boxes.
+5e70f65f-9280-45aa-8dd4-595b5c63b6f3,william13@example.com,555-605-1430,Laura,Young,61764,1994-04-17,william13@example.com,Can we get the invoice as PDF instead?
+68d0a2a8-c4e7-47dd-a929-de738693fd9d,cherylmiller@example.com,555-836-8842,Kyle,Key,75854,1941-01-03,cherylmiller@example.com,"Hi, this is Kyle Key — order #6194 never arrived. I'm at cherylmiller@example.com, or call me at 555-836-8842. Billing zip is 84693."
+6ec01269-2108-4dd9-b75d-1e3cc48d5650,coleerin@example.com,555-898-3981,Melvin,Humphrey,66412,2002-02-09,coleerin@example.com,"Thanks — this got resolved, closing."
+84d67c4f-f0df-4684-b28e-41225894f7f1,guerraapril@example.com,555-826-4694,Kevin,Martin,37731,1997-05-18,guerraapril@example.com,Just checking the return policy for damaged boxes.
+9780c215-2b2b-48e9-a417-c09380a8a23d,james84@example.com,555-646-2530,David,Turner,76607,1946-11-18,james84@example.com,Just checking the return policy for damaged boxes.
+92779574-c457-4cc3-b5f7-89bca6b07458,megan90@example.com,555-146-5336,Marcia,Johnson,55103,1980-09-30,megan90@example.com,"Thanks — this got resolved, closing."
+67f5ae02-af5b-4f47-8eae-71cfce000af0,jimenezcourtney@example.com,555-594-5012,Keith,Frye,39486,1968-09-25,jimenezcourtney@example.com,Please add VAT to our receipts.
+bbf483ce-51be-480e-b7e6-a14cdc8a4922,moorerobert@example.com,555-247-6121,Steven,Peterson,45769,2006-10-30,moorerobert@example.com,Please add VAT to our receipts.
+18c8a616-2410-4e9a-bf77-9cae7318b96d,kathleenrobertson@example.com,555-225-5382,Daniel,Allen,07133,1956-10-23,kathleenrobertson@example.com,Can we get the invoice as PDF instead?
+500e15c0-b89b-4f7f-93e3-4c35ef0a573d,alin@example.com,555-263-6364,John,Grimes,25382,1991-05-02,alin@example.com,Just checking the return policy for damaged boxes.
+750d112e-8164-4eec-a4ab-851bf1fac6e7,dferrell@example.com,555-123-2475,Victor,Parker,32053,1951-05-01,dferrell@example.com,"Hi, this is Victor Parker — order #6781 never arrived. I'm at dferrell@example.com, or call me at 555-123-2475. Billing zip is 06878."
+6e51484d-1b84-4dc3-98e0-49de0217ea0e,campbellcarla@example.com,555-392-9793,Megan,Chambers,18056,2000-01-17,campbellcarla@example.com,Can we get the invoice as PDF instead?
+62e7c1a6-12d2-4a06-89e1-cd138da00495,kathryn50@example.com,555-299-6939,Richard,Hudson,66594,1968-07-02,kathryn50@example.com,Please add VAT to our receipts.
+8ece1128-56ce-4b42-bc9e-1dcbcb7e6268,marcia99@example.com,555-503-7114,David,Hester,48421,1990-09-27,marcia99@example.com,How do I change my billing address?
+74fd33d1-84f2-4d0f-b947-4bfacdd0b4d4,carriemorales@example.com,555-830-6456,Billy,Williams,20022,1979-11-19,carriemorales@example.com,The dashboard shows yesterday's orders twice?
+d40ac5e9-81df-4517-961c-921097fe56c5,markaustin@example.com,555-857-5902,Francisco,Ewing,67310,1974-06-27,markaustin@example.com,Can we get the invoice as PDF instead?
+df41e335-b9ae-48e4-a615-99c8cbf81f86,thomas05@example.com,555-526-6040,Mark,Rodriguez,90684,1981-07-24,thomas05@example.com,Can we get the invoice as PDF instead?
+7afeb114-9561-4813-8d25-9caab8adad87,pbaker@example.com,555-691-4728,Krista,Parsons,22850,1973-11-23,pbaker@example.com,How do I change my billing address?
+504e2687-70e7-4756-84d9-145e30d73df7,rhernandez@example.com,555-817-2800,John,Armstrong,55391,1946-09-05,rhernandez@example.com,Please add VAT to our receipts.
+35145890-84c8-4c46-a359-5fa4b4adaf89,roberthampton@example.com,555-853-2020,Samantha,Salas,74017,1959-05-10,roberthampton@example.com,Can we get the invoice as PDF instead?
+c5a11f5c-ad05-4912-9ab2-8d4a8bd88fcd,ufox@example.com,555-645-6608,Sue,Stevens,94994,1985-04-27,ufox@example.com,Question about my last invoice.
+b47a1c5b-b0b3-4015-b510-2852b4746349,chelsea33@example.com,555-404-5735,Joshua,Evans,64595,1958-10-08,chelsea33@example.com,Please add VAT to our receipts.
+c5e78b23-f461-4f09-985a-befbd1812f77,ann44@example.com,555-488-7464,David,Rhodes,19699,1956-10-29,ann44@example.com,Please add VAT to our receipts.
+89e03e22-d3f4-449b-b3ba-ba8836c7d6fa,stephanie15@example.com,555-865-8849,Sandra,Douglas,36038,2003-09-27,stephanie15@example.com,The dashboard shows yesterday's orders twice?
+19a692c9-0d70-4ea4-bb9b-2d45a35055e4,derrick99@example.com,555-643-4697,John,Williams,54673,1959-09-26,derrick99@example.com,Can we get the invoice as PDF instead?
+c1836315-330f-4be1-a689-b4247a3a10e1,adampierce@example.com,555-999-8793,Sarah,Russell,38150,1959-01-26,adampierce@example.com,Just checking the return policy for damaged boxes.
+6afa828c-2cd1-4b9f-abe5-841fe9c96c52,velezchristopher@example.com,555-840-1611,Audrey,Nichols,23541,2003-10-21,velezchristopher@example.com,"Shipping took longer than the estimate, just FYI."
+4c636e95-025f-4543-8997-623ae0723d96,osbornrandy@example.com,555-993-5742,Tyler,Zuniga,74944,1979-08-18,osbornrandy@example.com,"Shipping took longer than the estimate, just FYI."
+cf0e6d2b-315c-467a-85d8-a6ad77d0359e,justin88@example.com,555-971-9261,Troy,Mays,15265,1959-10-07,justin88@example.com,"Shipping took longer than the estimate, just FYI."
+317304b5-c1dd-484a-aca5-8d95915a1c30,twong@example.com,555-909-5833,Jacob,Doyle,23503,1980-03-23,twong@example.com,The dashboard shows yesterday's orders twice?
+52d78f10-7a3a-4e96-a3ff-23d3fb4fb88a,gwilcox@example.com,555-197-4027,Mark,Morales,33013,1936-02-15,gwilcox@example.com,"Shipping took longer than the estimate, just FYI."
+b1594847-5c0b-4b10-a757-cb1042f525b9,wyoung@example.com,555-696-1187,Joseph,Rivera,31473,1940-02-28,wyoung@example.com,How do I change my billing address?
+ea87855e-a382-45d3-9e0e-f546b0b6dedf,marshallerik@example.com,555-820-6095,Gina,Leblanc,39172,1962-06-16,marshallerik@example.com,"Thanks — this got resolved, closing."
+e9ad0e9b-8c9a-41e9-b3b2-63376a74dbb7,jeffreyanderson@example.com,555-720-7121,Eric,Adkins,62213,1990-11-29,jeffreyanderson@example.com,Please add VAT to our receipts.
+13fe8a29-5c9d-4ee0-b42a-045687365a84,kathleenbecker@example.com,555-638-8319,Caitlin,Cobb,74447,1943-10-25,kathleenbecker@example.com,Just checking the return policy for damaged boxes.
+1747f387-7d23-4479-9549-2a82b787ef8d,ashleyhernandez@example.com,555-219-4365,Mark,Meyer,67396,1968-02-23,ashleyhernandez@example.com,"Thanks — this got resolved, closing."
+41241bb4-655c-4508-8592-bfa5b928e23f,chavezwilliam@example.com,555-573-6049,Stephen,Brown,00896,1990-01-26,chavezwilliam@example.com,The dashboard shows yesterday's orders twice?
+2e13418d-68ab-40ea-897e-c6d1081fc6dc,williamsmelvin@example.com,555-170-8734,Bryce,Mcknight,18251,1991-07-14,williamsmelvin@example.com,Please add VAT to our receipts.
+a96b3c42-f6d2-4a7b-aec7-6a82148b4376,ybrooks@example.com,555-486-7154,Shane,Stark,71188,1945-05-02,ybrooks@example.com,The dashboard shows yesterday's orders twice?
+4c61845e-fa7e-4d94-85d1-fb63c194f97f,david86@example.com,555-328-1056,Allison,Luna,61187,1984-10-16,david86@example.com,The dashboard shows yesterday's orders twice?
+c3f725fe-b99b-4b5a-a00d-a49deffa2002,opatel@example.com,555-382-4088,John,Reed,15291,1937-12-23,opatel@example.com,How do I change my billing address?
+b40a9181-ac09-4db7-9908-6e477249f62c,bmendez@example.com,555-708-1550,John,Jones,06881,1953-06-28,bmendez@example.com,Question about my last invoice.
+3bf2025f-4a0d-4b73-be54-ee4b80ff5173,moralesjimmy@example.com,555-157-3295,Jeff,Shields,96382,1977-09-06,CR-85690,Question about my last invoice.
+8e4c3ab5-6d5d-4477-adc2-9178a0411612,joel28@example.com,555-162-3869,Jeffrey,Turner,65463,1939-01-18,joel28@example.com,The dashboard shows yesterday's orders twice?
+89b5aab0-c121-49db-af12-b150605fb1eb,shelly68@example.com,555-252-5913,Lucas,Butler,62566,1953-03-20,shelly68@example.com,"Hi, this is Lucas Butler — order #4692 never arrived. I'm at shelly68@example.com, or call me at 555-252-5913. Billing zip is 39919."
+41476506-3e2b-49c9-a36f-6e5c2253e706,lindamelendez@example.com,555-670-9683,Anna,Faulkner,27152,1959-09-26,lindamelendez@example.com,"Shipping took longer than the estimate, just FYI."
+9adf4709-ac75-4344-a08e-149e44b9e602,nielsenmelanie@example.com,555-295-1844,Christopher,Hardy,79527,1938-07-06,nielsenmelanie@example.com,"Thanks — this got resolved, closing."
+4d9dbaeb-553d-4625-a833-4da5de95d695,lopezkathleen@example.com,555-590-4422,Jennifer,Hansen,02510,1951-02-01,lopezkathleen@example.com,"Shipping took longer than the estimate, just FYI."
+8d55119e-3d44-4b2c-aa45-ba416589ada1,suzannewilson@example.com,555-348-4350,Yvonne,Mendoza,42655,1992-03-28,suzannewilson@example.com,Can we get the invoice as PDF instead?
+fb37afae-cd85-43ca-993e-638d774c0afa,powens@example.com,555-625-9147,Michael,Green,95189,1969-11-24,powens@example.com,"Hi, this is Michael Green — order #6246 never arrived. I'm at powens@example.com, or call me at 555-625-9147. Billing zip is 27125."
+9442b5e6-9583-4d58-af4c-51198da5d39b,lawrence09@example.com,555-116-5272,Michelle,Figueroa,94874,1966-02-09,lawrence09@example.com,The dashboard shows yesterday's orders twice?
+7d1645a0-d253-4966-836b-9a0a41e02a89,jameshall@example.com,555-663-6530,Ashley,Sanchez,95339,1982-06-21,jameshall@example.com,Can we get the invoice as PDF instead?
+e3ad64d4-eab9-4b02-af1d-c1217d024c6d,umurray@example.com,555-837-9954,Laura,Jackson,71559,2007-12-02,umurray@example.com,"Shipping took longer than the estimate, just FYI."
+a175a9c3-d7b1-42a9-a332-a50e6992896e,warrenmary@example.com,555-149-1104,Charles,Meyers,30835,1940-08-02,warrenmary@example.com,Can we get the invoice as PDF instead?
+01b158e9-0406-4f44-bce4-0679a8c6dbc0,albertwagner@example.com,555-782-8916,Nathaniel,Williamson,70259,1975-11-24,albertwagner@example.com,The dashboard shows yesterday's orders twice?
+2de46e91-e8e6-4840-b090-f5a0ce610199,smithjennifer@example.com,555-614-8054,Amanda,Mitchell,14527,2002-08-23,smithjennifer@example.com,How do I change my billing address?
+67f1698c-f594-4a54-9f80-4eeb143a9aff,johnharvey@example.com,555-914-7502,Johnny,Gomez,60662,1976-11-14,johnharvey@example.com,Question about my last invoice.
+608e2f5c-6117-4270-a7c0-518b17efa621,kevinclayton@example.com,555-765-1519,Christopher,Frey,72944,1970-05-17,kevinclayton@example.com,"Thanks — this got resolved, closing."
+0ae4ac11-eb4d-4f42-8735-70a2e5110961,warnerchristopher@example.com,555-439-2562,Megan,Newman,30616,1951-01-22,warnerchristopher@example.com,Can we get the invoice as PDF instead?
+508211a5-d9b5-4f84-adc3-a1c32dea2d2d,enelson@example.com,555-656-1539,Gabrielle,Ramirez,02553,2005-10-24,enelson@example.com,The dashboard shows yesterday's orders twice?
+639fc471-d975-4f00-95ab-a8ae9112fbc0,karenmarquez@example.com,555-266-4939,Raymond,Jones,89241,2001-01-26,karenmarquez@example.com,How do I change my billing address?
+1375ee90-d6b3-41e4-bb6d-ca0d6fe5040b,patrick21@example.com,555-154-2600,Vincent,Mccann,45143,1979-10-21,patrick21@example.com,"Shipping took longer than the estimate, just FYI."
+f0eebcce-8d93-414a-9b16-71583a67470c,unovak@example.com,555-561-9038,Anthony,Nelson,49708,1967-02-24,unovak@example.com,Question about my last invoice.
+b630794d-6147-4deb-a77b-06674499d0a6,nmiller@example.com,555-175-2344,Kenneth,Wright,83587,1946-11-20,nmiller@example.com,The dashboard shows yesterday's orders twice?
+21ebfaa9-1a2b-469c-850f-69eec2e79a98,gstewart@example.com,555-555-6896,Christopher,Hahn,11943,1949-04-21,gstewart@example.com,"Thanks — this got resolved, closing."
+530ddda6-c8d0-49e5-9919-65ea98d00c2c,ghawkins@example.com,555-462-2524,Ricky,Johnson,50994,1936-07-11,ghawkins@example.com,"Shipping took longer than the estimate, just FYI."
+2b64777c-6177-4771-af70-de702b69c95e,fhughes@example.com,555-348-9537,Jenny,Hansen,18699,1955-04-04,fhughes@example.com,"Hi, this is Jenny Hansen — order #5397 never arrived. I'm at fhughes@example.com, or call me at 555-348-9537. Billing zip is 65135."
+b88cddde-3f20-46c2-b1b8-8d65406f64d6,bryanhamilton@example.com,555-178-6916,Robert,Washington,82425,1971-10-27,bryanhamilton@example.com,How do I change my billing address?
+70b27304-545c-488d-9cb9-075ecdd7f460,stephentaylor@example.com,555-961-7224,Adam,Foster,44375,1967-01-22,stephentaylor@example.com,"Shipping took longer than the estimate, just FYI."
+bc20b9f2-4a9c-489e-91b3-0182f7fe604f,kevinmorrison@example.com,555-281-7524,Heather,Mendoza,91590,1981-10-29,kevinmorrison@example.com,Just checking the return policy for damaged boxes.
+2e0fb5b3-8bae-491e-bf4c-c10f979c30cf,markramirez@example.com,555-677-4273,Kristi,Diaz,89854,1991-08-30,markramirez@example.com,"Shipping took longer than the estimate, just FYI."
+cb881c32-cbb0-4a8b-9908-a121d1a7ba20,bentonsteven@example.com,555-398-2133,Jeanette,Gonzales,54128,1984-10-02,bentonsteven@example.com,Can we get the invoice as PDF instead?
+9912316a-fd9e-4e20-b2f6-095812ef6101,cynthiaallen@example.com,555-908-7176,Donna,Espinoza,63315,1978-02-16,cynthiaallen@example.com,"Shipping took longer than the estimate, just FYI."
+15c1604f-ea16-4354-a35f-c9c198049562,ystephens@example.com,555-931-9796,Tanya,Miles,14836,1991-10-05,ystephens@example.com,How do I change my billing address?
+f73936e9-54e3-4579-80af-d193f780ef2f,gabriel90@example.com,555-762-7547,Anna,Newman,56921,1943-05-11,gabriel90@example.com,"Shipping took longer than the estimate, just FYI."
+768b4f7e-6421-4e66-9fc6-4cd0721e8b1f,greenwilliam@example.com,555-689-4621,April,Carpenter,89571,1978-08-05,greenwilliam@example.com,"Shipping took longer than the estimate, just FYI."
+2444d301-baeb-486b-b0d0-270fd4d13d55,michaeljohnson@example.com,555-187-2901,Dan,Perry,46157,1958-05-24,michaeljohnson@example.com,Please add VAT to our receipts.
+0b705933-4cde-4b6b-9132-567c51a40d2a,hmueller@example.com,555-548-8412,Timothy,Alvarez,93664,1944-01-10,hmueller@example.com,The dashboard shows yesterday's orders twice?
+cc39b925-3b5a-4288-b649-2e64f55dce6d,deborah23@example.com,555-438-7985,Zachary,Arnold,53591,1981-08-06,deborah23@example.com,Please add VAT to our receipts.
+0123a348-638a-4df6-adf7-2cd3979aa051,daniellereynolds@example.com,555-302-8365,Anthony,Mendez,92872,1951-04-22,daniellereynolds@example.com,"Shipping took longer than the estimate, just FYI."
+1d2c2721-7522-4646-b273-75bf5373bf4d,karen19@example.com,555-291-6993,Cristian,Wiggins,34888,1984-08-02,karen19@example.com,The dashboard shows yesterday's orders twice?
+753659ef-d873-4ad9-9a1b-af0e591196dc,orose@example.com,555-501-2871,Lawrence,Price,81419,1948-03-21,orose@example.com,Please add VAT to our receipts.
+b1850eb8-5f90-4c87-aedc-017e1df05d18,samantha91@example.com,555-344-6003,Emily,Edwards,19029,1972-11-30,samantha91@example.com,"Hi, this is Emily Edwards — order #7852 never arrived. I'm at samantha91@example.com, or call me at 555-344-6003. Billing zip is 78675."
+49f1137d-7d59-4e19-aab7-b2ef8e0ec033,baileyhenderson@example.com,555-760-3838,Tommy,Medina,18889,1949-04-13,baileyhenderson@example.com,"Shipping took longer than the estimate, just FYI."
+a72f947d-8164-42cb-8fc3-d7d3f6bd80c7,wharvey@example.com,555-299-7290,Stephanie,Washington,65377,1965-06-29,wharvey@example.com,"Thanks — this got resolved, closing."
+398f569b-465c-42cb-885e-b4894ac66780,cperry@example.com,555-131-4613,Tracy,Miller,70966,1956-09-12,cperry@example.com,Please add VAT to our receipts.
+d2c2a960-8b09-41ab-866d-ceb344945e09,xcunningham@example.com,555-215-2871,Katie,Dunn,48586,1975-03-13,xcunningham@example.com,The dashboard shows yesterday's orders twice?
+0840405a-ffd2-4491-9ff3-89aa4c36a70c,wolfscott@example.com,555-853-5055,Jeffery,Coleman,59448,1954-10-23,wolfscott@example.com,Please add VAT to our receipts.
+a1fd4187-9c3a-4e0b-b5f3-f8aadc6dafff,gonzalesvictoria@example.com,555-930-6744,Kimberly,Young,56621,1947-09-28,gonzalesvictoria@example.com,Just checking the return policy for damaged boxes.
+52daf681-2b1a-476c-89ec-bc5198cbaa52,kristenli@example.com,555-645-5605,Linda,Hudson,92782,1956-12-26,CR-85069,Just checking the return policy for damaged boxes.
+a7e8d18e-ddf6-44ac-86fe-acd4fe1393cd,stephanie81@example.com,555-521-1971,Derek,Brady,17132,1986-10-30,stephanie81@example.com,"Thanks — this got resolved, closing."
+a1e518a2-93d2-48d4-a465-5c397d4d2add,johndawson@example.com,555-792-7434,Maria,Juarez,35722,1981-06-16,johndawson@example.com,How do I change my billing address?
+efb3b939-b1d8-4887-8739-cc7bbff30c8d,ohayes@example.com,555-512-9447,Laura,Mack,48875,1968-10-26,ohayes@example.com,How do I change my billing address?
+5bb47c18-b281-47c4-aa05-5442a284e8fd,amurphy@example.com,555-195-8511,Misty,Boone,08801,1993-09-16,amurphy@example.com,The dashboard shows yesterday's orders twice?
+216e9fe5-93f3-4596-8c1c-8b0556771f36,brobinson@example.com,555-430-5646,Mallory,Simpson,74706,1997-11-07,brobinson@example.com,"Hi, this is Mallory Simpson — order #6631 never arrived. I'm at brobinson@example.com, or call me at 555-430-5646. Billing zip is 89964."
+fde91c42-002c-4c22-b4de-5f7070f81dba,williamsconnie@example.com,555-978-3588,Mary,Smith,56573,1950-05-24,williamsconnie@example.com,Can we get the invoice as PDF instead?
+aa1d3fc6-5f31-473d-9519-830c40198303,nicoleturner@example.com,555-195-6905,Nancy,Mcdowell,85555,1947-09-16,nicoleturner@example.com,How do I change my billing address?
+36a2c52b-0047-4139-985d-f528b4258e19,ugarrett@example.com,555-771-2494,Holly,Young,62997,1941-04-25,ugarrett@example.com,The dashboard shows yesterday's orders twice?
+1221cddf-7a4a-402f-a1d6-3b0fb1ac040d,aprilwallace@example.com,555-223-7919,Alan,Cooper,30509,1963-08-04,aprilwallace@example.com,"Thanks — this got resolved, closing."
+249204c7-ad58-4b1b-be31-537aa43e558c,garciamichael@example.com,555-932-3181,Kevin,Reyes,09467,1974-05-09,garciamichael@example.com,"Hi, this is Kevin Reyes — order #1138 never arrived. I'm at garciamichael@example.com, or call me at 555-932-3181. Billing zip is 80496."
+e5871d89-1631-4fc6-b79d-58f9dc268108,scottbowen@example.com,555-521-8248,Courtney,Hernandez,13669,1945-11-05,CR-26142,Can we get the invoice as PDF instead?
+999a1d86-99db-4302-8dab-66d33f87dfc2,bbell@example.com,555-383-2380,Leonard,Taylor,95027,1979-12-24,bbell@example.com,Can we get the invoice as PDF instead?
+a56b61e0-4ba8-44ca-a449-cb6fbf72ae52,abbottdominique@example.com,555-621-4090,Kevin,Holmes,07653,1992-11-04,abbottdominique@example.com,Just checking the return policy for damaged boxes.
+51045a16-ef15-4b72-9c70-ee97fca45567,troyrodriguez@example.com,555-640-1197,Victor,Wheeler,17800,1963-11-12,troyrodriguez@example.com,"Shipping took longer than the estimate, just FYI."
+0387f74d-1149-4096-965d-744f0445c1a8,rdiaz@example.com,555-888-2195,Gerald,Ruiz,34866,1951-05-17,rdiaz@example.com,Can we get the invoice as PDF instead?
+1519fd38-66fb-471d-b3a9-dcaa6c6f6d2e,fryraymond@example.com,555-885-7806,Justin,Marquez,84457,1974-10-17,fryraymond@example.com,Question about my last invoice.
+9620bee6-6406-4ace-93a5-e8508950ddd6,joshuacollins@example.com,555-927-3545,William,Harris,83639,1991-05-05,joshuacollins@example.com,The dashboard shows yesterday's orders twice?
+74102d5d-1db1-4bfc-af3a-5115ecb4678c,collinssamuel@example.com,555-350-2412,Stephanie,Allen,80755,1980-01-26,collinssamuel@example.com,"Hi, this is Stephanie Allen — order #6067 never arrived. I'm at collinssamuel@example.com, or call me at 555-350-2412. Billing zip is 87805."
+b88416d2-d28f-4f68-8871-d7b38468b74d,davidzimmerman@example.com,555-455-9568,Jacqueline,Martin,34481,1947-10-24,davidzimmerman@example.com,Can we get the invoice as PDF instead?
+861b4f5b-45a0-4539-ade8-370ace9e9ebd,karamarks@example.com,555-130-6488,Jessica,Wilson,08872,1954-10-27,karamarks@example.com,Can we get the invoice as PDF instead?
+1a57f9e4-c5f8-42f8-814f-499428457780,crawfordwilliam@example.com,555-270-7024,Brian,Villarreal,75724,1984-11-01,crawfordwilliam@example.com,Question about my last invoice.
+eb93f78c-620a-4158-9d2d-904f78c59073,perezwilliam@example.com,555-350-1753,Bradley,Roy,20172,1948-09-08,perezwilliam@example.com,Can we get the invoice as PDF instead?
+51e744e4-b864-4a08-aa75-752d6a8fcacb,tranrobin@example.com,555-429-5067,Joy,Barnes,36055,1995-12-04,tranrobin@example.com,"Shipping took longer than the estimate, just FYI."
+ddb449dc-7710-4966-a082-7f7611a529b4,david02@example.com,555-147-7568,Jeffrey,Black,37503,1992-02-04,david02@example.com,Question about my last invoice.
+76c3e642-3e19-4c1d-9f6a-6a65bd54da04,mark87@example.com,555-677-5979,Alan,Gonzalez,48771,1978-10-26,mark87@example.com,Just checking the return policy for damaged boxes.
+68f82063-eeb1-4ad2-81a1-fb0f268b84b6,xcuevas@example.com,555-878-5016,James,Mccullough,03634,1952-08-19,xcuevas@example.com,Please add VAT to our receipts.
+fbad793f-87a1-4c02-b487-9e411a9c672a,cynthia05@example.com,555-969-6038,Aaron,Sandoval,31718,1966-04-09,cynthia05@example.com,Can we get the invoice as PDF instead?
+5f5ba255-e544-4887-b36a-b3ed69be173a,kaufmandouglas@example.com,555-337-9515,Joshua,Williams,60592,2006-10-08,kaufmandouglas@example.com,Can we get the invoice as PDF instead?
+21761930-f6d7-4248-a995-ecc36f5b09a6,carpenterwilliam@example.com,555-706-2020,Dana,Foster,31535,1956-12-01,carpenterwilliam@example.com,The dashboard shows yesterday's orders twice?
+95af6d0c-c528-4425-87a9-f33c22d839d3,sara65@example.com,555-176-4321,Louis,Nelson,14784,1946-12-20,sara65@example.com,"Shipping took longer than the estimate, just FYI."
+43d78f2b-769d-41e3-8eed-412473b0d676,shannonedwards@example.com,555-888-4401,David,Howard,16218,1942-03-23,shannonedwards@example.com,The dashboard shows yesterday's orders twice?
+5b11f51f-f7e9-401d-bf8b-4433b60e695c,margaret90@example.com,555-251-2494,Jason,Gates,52437,1973-02-08,margaret90@example.com,"Hi, this is Jason Gates — order #5896 never arrived. I'm at margaret90@example.com, or call me at 555-251-2494. Billing zip is 34601."
+cb371d97-cdcc-4d6a-9a16-998c7648776e,anthonysullivan@example.com,555-355-2551,Shannon,Adkins,18823,1944-06-28,anthonysullivan@example.com,Please add VAT to our receipts.
+eadc9960-4242-41e2-960b-e0f495132c22,greertoni@example.com,555-481-2376,David,Colon,10329,1937-03-20,greertoni@example.com,Can we get the invoice as PDF instead?
+7603c36c-f139-4e3c-8aee-25571f5df912,gonzalezdebbie@example.com,555-967-6432,Lisa,Davis,07138,1947-11-21,gonzalezdebbie@example.com,"Shipping took longer than the estimate, just FYI."
+2fe922aa-e886-4011-b6f7-a26c5a9c0679,zunderwood@example.com,555-536-3831,Tyler,Reyes,36543,1956-01-21,zunderwood@example.com,Question about my last invoice.
+620d4a1f-479f-4628-9674-eb650f9c5300,austinharvey@example.com,555-521-8848,John,Phillips,18488,1966-03-25,austinharvey@example.com,Can we get the invoice as PDF instead?
+7c13f47a-c80c-4195-8b65-84ce7acc9970,crystalpham@example.com,555-900-6883,Laura,Mayo,45594,2002-04-02,crystalpham@example.com,"Hi, this is Laura Mayo — order #9231 never arrived. I'm at crystalpham@example.com, or call me at 555-900-6883. Billing zip is 42654."
+78c04ed8-fdd4-4f21-8f03-f0c80effd5bd,bnelson@example.com,555-930-5602,Luis,Robinson,69894,1961-09-19,bnelson@example.com,Just checking the return policy for damaged boxes.
+382b5b86-f2a3-4efd-bf13-8c80c398c332,terrigarcia@example.com,555-935-1916,Diane,Adams,75958,1997-06-03,terrigarcia@example.com,Can we get the invoice as PDF instead?
+b4157cea-0738-4ba4-9770-a3dbe9fa97e2,lkelly@example.com,555-925-6878,Gregory,Watkins,92324,1961-04-19,lkelly@example.com,How do I change my billing address?
+09b7fdf7-7d8d-4ddd-acf1-49cb4f1e1a37,annalopez@example.com,555-604-9882,Vanessa,Keith,12331,1939-09-22,annalopez@example.com,"Shipping took longer than the estimate, just FYI."
+eb3537a0-2d6e-4291-b789-3986573bfc17,andrewwoods@example.com,555-925-3137,Martin,Mendez,42914,1939-12-22,andrewwoods@example.com,How do I change my billing address?
+b45c9a54-5fa3-4531-9291-6e60f5e72daf,brendastark@example.com,555-981-6978,Kim,Mathis,87288,1964-07-03,brendastark@example.com,Question about my last invoice.
+b509f08a-2c98-4bca-9139-7c06a630ad9d,rogersmarcus@example.com,555-547-8982,Theresa,Oconnor,74160,1986-04-04,rogersmarcus@example.com,"Hi, this is Theresa Oconnor — order #6846 never arrived. I'm at rogersmarcus@example.com, or call me at 555-547-8982. Billing zip is 29761."
+f7164b73-c555-43ed-be89-56c8d9cb3540,nicholasgross@example.com,555-101-7415,Kelly,Thompson,74882,1937-12-27,nicholasgross@example.com,Can we get the invoice as PDF instead?
+3ced4d1f-13eb-42c9-bece-d21a54c7743b,samantha93@example.com,555-608-3304,Danielle,Garcia,45958,2007-05-05,samantha93@example.com,Question about my last invoice.
+35adde88-43e4-4668-82ea-d2df725656e3,daisymccarty@example.com,555-846-6500,Lorraine,Santiago,33208,1986-03-24,daisymccarty@example.com,"Thanks — this got resolved, closing."
+e1bbb8cd-7e3a-4f07-a9fd-28e6e271fff9,jonathan10@example.com,555-529-3725,Brandon,Kim,50139,1961-04-07,jonathan10@example.com,Can we get the invoice as PDF instead?
+cc9803de-12de-4e5a-b387-928a29a3db6d,egarcia@example.com,555-876-4695,Kristina,Lane,04880,1957-02-25,egarcia@example.com,How do I change my billing address?
+fa60ede1-e5eb-472d-b11c-0ac58c0b393a,jose11@example.com,555-264-2228,Matthew,Barron,12704,1960-04-18,jose11@example.com,"Shipping took longer than the estimate, just FYI."
+349ef4a9-54c2-4d5c-99ec-08290db5d441,bbush@example.com,555-544-3573,Sherri,Martin,25402,1965-07-03,bbush@example.com,How do I change my billing address?
+00fa0eb4-5c5f-48d4-8df4-07b82751ab86,donna43@example.com,555-662-9043,Cody,Long,56548,1942-01-08,donna43@example.com,Question about my last invoice.
+c8edabdd-4ef0-4f80-9d91-fe39d8014004,bgonzalez@example.com,555-183-8758,Jamie,Little,52597,1970-01-02,bgonzalez@example.com,Please add VAT to our receipts.
+7092d401-4367-4d58-8b6c-03c8721e5419,christopher86@example.com,555-478-4056,Jackson,Mcclure,61457,1954-11-08,christopher86@example.com,Can we get the invoice as PDF instead?
+3a3e46b0-96f8-4ff7-81a7-2883f8802878,anne21@example.com,555-654-7782,Christopher,Cooper,73062,1940-01-29,anne21@example.com,Just checking the return policy for damaged boxes.
+6511e61a-1436-45f5-8c81-926079ec533c,acardenas@example.com,555-586-4860,Tammy,Mcdaniel,94126,1938-02-28,acardenas@example.com,"Hi, this is Tammy Mcdaniel — order #9467 never arrived. I'm at acardenas@example.com, or call me at 555-586-4860. Billing zip is 75406."
+140ff589-6c62-4c2c-8aec-cec7204db9da,davidtodd@example.com,555-316-4157,Gerald,Joyce,90039,1967-05-30,davidtodd@example.com,The dashboard shows yesterday's orders twice?
+8d536c75-65b9-4e94-8e6d-e263635a775d,maryscott@example.com,555-168-2425,Renee,Sloan,43247,1998-02-28,maryscott@example.com,"Shipping took longer than the estimate, just FYI."
+25f06b0a-264e-459d-aa18-e5af1cce08e9,astark@example.com,555-635-7874,Kristin,Dean,74765,1978-07-18,astark@example.com,"Hi, this is Kristin Dean — order #2641 never arrived. I'm at astark@example.com, or call me at 555-635-7874. Billing zip is 14346."
