@@ -16,6 +16,15 @@ understand dimensional modeling. Three interlocking pieces:
 Everything is greenfield and self-contained. No external services, no API keys,
 no auth. Clone and go.
 
+## How to clone
+
+```bash
+git clone --depth 1 --sparse --filter=blob:none https://github.com/nbaubek/devto-articles-repo
+cd devto-articles-repo
+git sparse-checkout set kimball-series
+cd kimball-series
+```
+
 ---
 
 ## Read the articles
